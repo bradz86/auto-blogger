@@ -1,0 +1,4 @@
+pydantic-ai
+    supabase
+    streamlit
+    python-dotenv
